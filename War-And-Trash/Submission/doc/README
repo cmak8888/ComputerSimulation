@@ -1,0 +1,7 @@
+Calvin Mak
+The shuffle algorithm can be found on line 61 in the function called shuffle within the main.cxx file.
+To run the program, simply cd to the proper directory and run make.
+I had issues with figuring out the Trash, most likely with my approach. 
+The program gets stuck and runs in an infinite loop, so Trash may not run to completion.
+The issue could be a memory leak.
+I also had issues running grader.sh
